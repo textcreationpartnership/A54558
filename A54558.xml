@@ -1,0 +1,344 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petition of the six countries of South-wales, and the County of Monmouth presented to the Parliament of the common-wealth of England, for a supply of ministers in lieu of those that have been ejected.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 46 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54558</idno>
+            <idno type="STC">Wing P1836</idno>
+            <idno type="STC">ESTC R8119</idno>
+            <idno type="EEBO-CITATION">12194241</idno>
+            <idno type="OCLC">ocm 12194241</idno>
+            <idno type="VID">55966</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54558)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 55966)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 872:60)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petition of the six countries of South-wales, and the County of Monmouth presented to the Parliament of the common-wealth of England, for a supply of ministers in lieu of those that have been ejected.</title>
+                  <author>Powell, Vavasor, 1617-1670.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 33 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>"A letter of Mr. Valvasor Powell" and "Parliament's action on the petition" each have caption titles.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Wales, South --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:55966:1"/>
+            <pb facs="tcp:55966:1" rendition="simple:additions"/>
+            <p>THE PETITION OF THE Six Counties of South-<hi>Wales,</hi> and the County of <hi>Monmouth,</hi> Preſented to the PARLIAMENT Of the Common-wealth of ENGLAND.</p>
+            <p>For a ſupply of Miniſters, in lieu of thoſe that have been Ejected.</p>
+            <p>Printed in the Year, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:55966:2"/>
+            <pb facs="tcp:55966:2"/>
+            <head>To the Supreme Authority, the Parliament of the Common-wealth of <hi>England,</hi> The Humble <hi>Petition</hi> of the Inhabitants of <hi>South-Wales</hi> and County of <hi>Monmouth.</hi>
+            </head>
+            <opener>Sheweth</opener>
+            <p n="1">1 <seg rend="decorInit">T</seg>Hat your Petitioners cannot but with all humblenes acknowledge your Honours co<g ref="char:cmbAbbrStroke">̄</g>ſtant care in pro<g ref="char:EOLhyphen"/>viding for the ſupply of their ſpi<g ref="char:EOLhyphen"/>rituall neceſſities, &amp; the advance<g ref="char:EOLhyphen"/>ment of the Goſpel of Chriſt, and particularly in paſſing the Act of the 22th. of <hi>Feb.</hi> 1649. intituled an: <hi>Act for the propagation of the Goſpell in</hi> Wales, ſo much really intended by your Honours, which filled the hearts of your Petitioners, and all the Inhabitants of <hi>Wales</hi> with joy &amp; gladnes, in hopes to find the fruites thereof accordingly: Ne<g ref="char:EOLhyphen"/>vertheleſs your Petitioners humbly ſhew, that ſince the paſſing of the ſaid Act, all or moſt of the Mini<g ref="char:EOLhyphen"/>ſters of <hi>South-Wales,</hi> together with the County of <hi>Munmouth,</hi> have been (and ſtand) ejected from their Benefices: and but few or none of the ſaid re<g ref="char:EOLhyphen"/>ſpective Counties have been ſupplyed with any competent number of Godly able Teachers to offi<g ref="char:EOLhyphen"/>ciate
+<pb n="2" facs="tcp:55966:3"/>
+in the roomes of the outed Miniſters: Neither hath there been provided any convenient number of godly Schooles for the education of Children, and advancement of learning, as was intended by your Honors, and the true purport of the ſaid Act, as they humbly conceive, there being not above four or five Itine rary Teachers in ſome of the ſaid Counties appointed, and approved of to teach the Goſpell; whereas ſome of the ſaid Counties do conſiſt of a<g ref="char:EOLhyphen"/>bove ſix ſcore Pariſhes, and the leaſt of fifty or three-ſcore, many whereof have at leaſt two thouſand Soules.</p>
+            <p n="2">2 That ſome perſons deriving Authority from the ſaid Act, have for theſe two years laſt paſt, re<g ref="char:EOLhyphen"/>ceived and diſpoſed of all the profits of the Tithes of Church-livings, and all other Benefices and Im<g ref="char:EOLhyphen"/>propriations ſequeſtered within the ſaid ſix Coun<g ref="char:EOLhyphen"/>ties of <hi>South-Wales,</hi> and County of <hi>Monmouth,</hi> which are annually worth twenty thouſand pound or thereabouts; Out of which, little hath been con<g ref="char:EOLhyphen"/>verted towards the propagation of the Goſpell, or accompted for to the State.</p>
+            <p n="3">3 That for want of the due execution of the ſaid Act, your Petitioners, together with the ſaid Inhabitants, indure a Famine of the Word of God; Children are not bred up in the inſtruction and in<g ref="char:EOLhyphen"/>formation of the Lord; The vaſt Revenue of the outed Miniſters are ſet out at extraordinary under<g ref="char:EOLhyphen"/>values; the Churches are in moſt places ſhut up, and the Fabrick thereof ready to fall to the ground for want of repair: Neither can the Inhabitants take
+<pb n="5" facs="tcp:55966:3"/>
+notice of your Honours Acts, Edicts, and Procla<g ref="char:EOLhyphen"/>mations, (wherein the publike welfare, the liberty and ſafety of their Perſons and Eſtates are con<g ref="char:EOLhyphen"/>cerned) for want of a fitting number of Teachers in each County to publiſh the ſame.</p>
+            <p>Your Petitioners therefore, out of their duty to God, the preſervation of the Souls of the In<g ref="char:EOLhyphen"/>habitants of their Countrey, the Common-wealths Intereſt, and the earneſt deſire they have that your Honors moſt pious intentions expreſſed in the ſaid Act may be accordingly obſerved, do hold themſelves bound in con<g ref="char:EOLhyphen"/>ſcience, out of Chriſtian and Soul-ſaving ne<g ref="char:EOLhyphen"/>ceſſity to preſent the Premiſes to your Ho<g ref="char:EOLhyphen"/>nors conſideration; earneſtly beſeeching your Honors in purſuance of your wonted Zeal and unfeigned affection to Gods Glory, and the increaſe of true Religion, Learning, and Piety, to take ſuch a courſe for the future ſup<g ref="char:EOLhyphen"/>ply of their reſpective Counties with ſuch convenient number of Godly able Teachers, and for proviſions of Schooles and Nurſeries of Learning and Religion there; As alſo to call to account ſuch perſons as have received the profits of the ſaid Tithes, Church-Livings and Prebends, and the ſequeſtered Impropriati<g ref="char:EOLhyphen"/>ons, as to your Honors grave wiſedom ſhall ſeem meet.</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioners ſhall (as in duty bound) moſt humbly and heartily pray</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:55966:4"/>
+            <head>A Letter of Mr. <hi>Valvaſor Powell</hi> againſt the ſaid Petition: with a ſober Reply thereunto.</head>
+            <opener>
+               <salute>Dear and Honored Sir,</salute>
+            </opener>
+            <p>HAving intelligence by your Letter, and more particularly by a printed <hi>Petition</hi> from <hi>South-Wales,</hi> that the condition of our Countrey, and the faithfulleſt Inſtruments therein, are miſ-repreſented with you, inſomuch that I hear from good hands, that credit ſome of our beſt friends begin to give to falſe Reports, and thereby, countenance prophane and faithleſs men, to raiſe Reports, and print abhominable Lyes, falſities and ſcandalls againſt Godly perſons and their honeſt proceedings, I have for the ſatisfaction of my ſelf and many friends that que<g ref="char:EOLhyphen"/>ſtion the ſame, endeavoured to know the Truth in the manifeſt particulars objected, eſpecially in that <hi>South-Wales Petition,</hi> and that I might be certain of the Truth, got Coppies of all the Commiſſioners proceedings upon the Act for <hi>Propagation of the Goſpell,</hi> I alſo converſed with ſeverall both of <hi>North-Wales</hi> and <hi>South-Wales,</hi> and I know moſt of the Commiſſioners, and have objected againſt ſome of their proceedings my ſelf, and upon the whole I muſt ſay this as in the preſence of God, before whom I doe not, and dare not lye, That,</p>
+            <p n="1">1 I doe believe that ſince the granting of the afore<g ref="char:EOLhyphen"/>ſaid Act for <hi>Propagation of the Goſpell,</hi> God hath
+<pb n="5" facs="tcp:55966:4"/>
+been much glorified, many hundreds (if not thouſands) have been converted in <hi>Wales,</hi> much of the power and practice of Godlines ſet up, and much impiety and wickedneſs ſuppreſſed.</p>
+            <p n="2">2 For the Commiſsioners they are moſt of them really Godly, and all of them faithfull to the Par<g ref="char:EOLhyphen"/>liament from the beginning.</p>
+            <p n="3">3 That they have acted judiciouſly and conſcien<g ref="char:EOLhyphen"/>tiouſly according to the Act as far as they diſcerned, and that they have not taken into their own hands any of the <hi>Revenue,</hi> as I believe they will be able not only to ſhew, but ſufficiently to ſwear, for I cannot hear that ever any part of the money came to their hands.</p>
+            <p n="4">4 Of all the men which they put out, I know not any in theſe ſix Counties of <hi>North-wales</hi> that have the power of Godlineſſe, and very few the form there<g ref="char:EOLhyphen"/>of, or that have been firm and faithfull to the Parlia<g ref="char:EOLhyphen"/>ment, but moſt of them un-preaching Curates, or ſcan<g ref="char:EOLhyphen"/>dalous in their lives, or having given that curſed Oath called <hi>Capells</hi> Oath, and I believe this will be made appear, as Mr. <hi>White</hi> did, to the ſatisfaction of all.</p>
+            <p n="5">5 Concerning Miniſters and School-maſters, not to mention or meddle with <hi>South-Wales,</hi> who are now returning an exact accompt which will ſatisfie all honeſt men and ſhame their <hi>Adverſaries,</hi> this is a true account for <hi>Northwales,</hi> that there <hi>51</hi> or there<g ref="char:EOLhyphen"/>abouts, old Miniſters ejected, there are of approved Miniſters now ſent out and ſetled about thirty two, whereof twenty four at leaſt are Univerſity men (and ſome of the reſt good ſcholars) for <hi>School-maſters</hi>
+               <pb n="8" facs="tcp:55966:5"/>
+there are twenty nine under preſent pay; nay whereas ſome report that all the <hi>Miniſters</hi> are caſt out, take this for a truth, for I heard it from a godly able Mi<g ref="char:EOLhyphen"/>niſter of <hi>Flint</hi>-ſhire this day, that there are not two Miniſters caſt out by vertue of this Act in all <hi>Flint</hi>-ſhire.</p>
+            <p>Laſtly, For the Tithes, they were and are tendred unto the <hi>Pariſhioners,</hi> but ſome are either ſo Malignant or fearfull of their prieſt, that they would not, nor dare not to take them in ſeverall pariſhes, they are ſet to the owners at a reaſonable rate, but the value of them, becauſe things are ſo cheap and the people much diſaf<g ref="char:EOLhyphen"/>fected thereto, much fallen; theſe things will be affirm<g ref="char:EOLhyphen"/>ed to be true, and I will ingage my ſelf upon the word of a Chriſtian and a <hi>Goſpell</hi> Miniſter to maintain the ſame.</p>
+            <closer>
+               <signed>
+                  <hi>Yours in the Lord</hi> Valueſor Powel</signed>
+            </closer>
+         </div>
+         <div type="answer">
+            <head>The Anſwer to the preceding Letter.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>IN the <hi>front</hi> of one of the <hi>Diurnals</hi> lately come to my hands, I found a <hi>frontleſſe</hi> Letter or inve<g ref="char:EOLhyphen"/>ctive of yours againſt that much-talked of Petition of <hi>South-Wales,</hi> that had been long ſince preſented to the Parliament, wherein you charge the ſaid Pe<g ref="char:EOLhyphen"/>tition and Petitioners with <hi>abominable lies, falſi<g ref="char:EOLhyphen"/>ties and ſcandals againſt godly men and their pro<g ref="char:EOLhyphen"/>ceedings.</hi>
+            </p>
+            <p n="1">1 This is boiſterous and bold language, and theſe words are not like thoſe of St. <hi>Paul,</hi> the words
+<pb n="9" facs="tcp:55966:5"/>
+               <hi>of Truth and Soberneſs.</hi>
+               <note place="margin">Act. 26.15.</note> If the Petitioners had been ſo puſillanimous and ſo poor-ſpirited as to have de<g ref="char:EOLhyphen"/>ſerted their Petition, as you did (by your menaces) indeavour to make them; or if they had failed to ju<g ref="char:EOLhyphen"/>ſtify and make good the Charge therin contained, you might have had ſome cauſe to be thus violent, and to ſpend your uſuall Artillery, <hi>even bitter words:</hi> but ſince (maugre all oppoſition and diſ<g ref="char:EOLhyphen"/>couragements) they ſtand to what they have don, and like worthy conſcientious Gentlemen doe proſecute their pious deſires and intentions declared in the ſaid Petition, I hope all ſober heads will <hi>ſuſ<g ref="char:EOLhyphen"/>pend</hi> their judgements touching that Pet: while you <hi>ſpend</hi> yours ſo freely, and rather incline to believe, that a Pet: proceeding from 7 whole Counties, and ſubſcribed by above 15000 hands of perſons <hi>en<g ref="char:EOLhyphen"/>gaged</hi> and well affected to the preſent State and go<g ref="char:EOLhyphen"/>vernment, was not framed and proſecuted without very good grounds and reaſons.</p>
+            <p>But for the <hi>honeſt proceedings,</hi> you ſpeak of, we have but your word, and ſingle teſtimonie for their honeſtie as yet; the generall exclamations, and <hi>great thoughts of heart,</hi> among the Inhabitants of thoſe reſpective Counties, ſeem to me, to argue the Contrary. And ſome of your own Com<g ref="char:EOLhyphen"/>miſſioners that went along with you a good while in the ſimplicitie of their hearts, and who were not ſo ſharp ſighted as to ſee into the bottom of your deſigns at firſt, have now deſerted you, and joyned with the Petitioners, in preſenting the ſaid Petition, to the Parliament: and others of their Colleagues, that did not goe along with it to the Houſe, went
+<pb n="10" facs="tcp:55966:6"/>
+along with it in their hearts, and <hi>wiſhed it good luck in the name of the Lord.</hi>
+            </p>
+            <p n="2">2 But to juſtifie theſe <hi>proceedings</hi> further, you tell us of the great paines you have taken to <hi>con<g ref="char:EOLhyphen"/>verſe with the Commiſſioners both of</hi> North-wales, <hi>and</hi> South-wales, <hi>and to examine their proceedings:</hi> we can bear you witneſſe that you took no ſmall pains in travelling thoſe Countreys like a <hi>Spirituall poſt,</hi> or a <hi>Knight errant,</hi> to encounter this <hi>terrible Petition,</hi> perſwading ſome by fair words, to call back their hands from that <hi>lying Petition</hi> (that was your ſtyle) and like another <hi>Saul, breathing out threatnings</hi> againſt others, menacing them with ſequeſtration &amp; ruin. This petition toſſed you much in the ſaddle, and made you ſit very uneaſie, ever ſince it came to light; which ſhewes that all is not well and ſound in your proceedings, nor ſo <hi>honeſt</hi> as you ſeeme to make them: all is not gold that gli<g ref="char:EOLhyphen"/>ſters, nor are all Saints that arrogate that name and Title.</p>
+            <p n="3">3 In the next period, you preſent your friends with the fruits of your labours &amp; <hi>Apoſtolicall</hi> excur<g ref="char:EOLhyphen"/>ſions in to thoſe Countreys: ſome <hi>hundreds and thou<g ref="char:EOLhyphen"/>ſands of people have been Converted in Wales,</hi> ſince that new Engin for the propagation of the goſpell was brought in thither. <hi>Converted?</hi> theſe were your ſuggeſtions of old to the Parliament that your Countrey men were no better then <hi>Pagans</hi> and <hi>In<g ref="char:EOLhyphen"/>fidells,</hi> and ſtood in need of being <hi>converted</hi> to the Faith: But let me tell you Sir, that the Inhabitants of thoſe parts, were neither <hi>Jewes, Turkes,</hi> nor <hi>Pagans,</hi> before your <hi>Holines</hi> came thither, but were as good
+<pb n="11" facs="tcp:55966:6"/>
+Chriſtians (every whit) as they are now, and I may ſay better: For they had Sermons far more fre<g ref="char:EOLhyphen"/>quently, and uſed to obſerve the <hi>Lords-Day</hi> with more piety and reverence than now they do:<note place="margin">Sabba<g ref="char:EOLhyphen"/>tum au<g ref="char:EOLhyphen"/>rei vituli.</note> for now they make it but a <hi>Brutiſh Sabbath,</hi> and diſtin<g ref="char:EOLhyphen"/>guiſh it from other dayes but by mere abſtaining from their daily labours, which is not a <hi>Holy</hi> &amp; ſan<g ref="char:EOLhyphen"/>ctified reſt, but a <hi>Sabbath</hi> of Beaſts and not of men: There be ſtrangers enough that have travailed thoſe Countries, that can bear witneſs to this ſad Trueth and ſeriouſly lament it: But perhaps you mean an<g ref="char:EOLhyphen"/>other ſort of <hi>converſion,</hi> to wit, to <hi>Popery,</hi> and here<g ref="char:EOLhyphen"/>in we can beare you witneſs that many hundreds have been <hi>converted</hi> ſince you came to Raigne and ſince the Miniſters have been caſt out, who did carefully guard their Flocks from <hi>Romiſh Wolves,</hi> and <hi>Foxes:</hi> For theſe have made as great a Harveſt in thoſe parts (of late) as you have; and do ſeduce as faſt as you: we heare of whole Pariſhes fallen off that way: For the people of <hi>Wales</hi> (in the generall) have ſo much averſnes to your <hi>looſe</hi> and <hi>fanatick</hi> waies, that they chooſe rather to go to <hi>Rome</hi> then to <hi>Bedlam;</hi> And for this reaſon I know none that are greater Enemies to the ſaid Petition and reſtitution of the able Miniſters, than the <hi>Papiſts</hi> and your ſelf.</p>
+            <p n="4">4 For your Character of the <hi>Commiſſioners</hi> that <hi>moſt of them are really Godly,</hi> we will not gainſay you, but wiſh they may approove themſelves ſo, when their Actions ſhall be ſcanned; yet that ma<g ref="char:EOLhyphen"/>ny of them had their judgements captivated by fair pretences, and been ſeduced to go along with you,
+<pb n="12" facs="tcp:55966:7"/>
+appeares by their ſerious remorſe and retractations, which we have touched before: <hi>Praeſtat recurrere quàm malè currere;</hi> and I wiſh the reſt would be ſo <hi>godly</hi> as to follow ſo good a preſident.</p>
+            <p>But that <hi>none</hi> of them have taken any of the <hi>Church Revenue</hi> into their hands, I think you will not be a <hi>Compurgator</hi> for any of them, we can tell you of one Commiſſioner that reſolved not to <hi>Act or concurre</hi> with you in the extirpation of the Miniſtry, if he might not have ſome Tithes into his hands: <hi>he would not be evill for nought,</hi> or ſell his conſcience for nothing; and accordingly he hath been a parſon of two good Benefices ever ſince: we can name others, that have <hi>bought lands</hi> and <hi>built houſes,</hi> ſince they had the handling of theſe <hi>Revenues,</hi> who (before times) were ſo low, that they never had ſuch immodeſt hopes as to amend themſelves <hi>ſo well,</hi> and <hi>ſo faſt</hi> as they have done.</p>
+            <p n="5">5 Having uſed your <hi>Target,</hi> to defend your Commiſſioners, you now draw your <hi>ſword,</hi> againſt your formidable Enemies, (thoſe <hi>Things in black,</hi> the Miniſters) whom you have routed and rooted out. <hi>They were</hi> (ſay you) <hi>moſt of them</hi> either <hi>Un-preach<g ref="char:EOLhyphen"/>ing Curats, or ſcandalous men in their lives, or had adminiſtred ſome accurſed oath to the people.</hi>
+            </p>
+            <p>But in ſober ſadneſſe <hi>Sir,</hi> did you eject none elſe? we could name you <hi>hundreds,</hi> that you have de<g ref="char:EOLhyphen"/>prived the Church of God of the benefit and com<g ref="char:EOLhyphen"/>fort of their labours, that had neither adminiſtred any <hi>oathes,</hi> neither were <hi>Un preaching Curats,</hi> nor were any way <hi>ſcandalous in their lives.</hi> But their lives and labours did expreſſe as much <hi>power of god<g ref="char:EOLhyphen"/>lineſs</hi>
+               <pb n="13" facs="tcp:55966:7"/>
+(quietly in their proper ſpheares) as any of your <hi>tinkling cymballs</hi> or <hi>wandring and fooliſh fires.</hi> If the Parliament were pleaſed to <hi>goe down</hi> (that is in their power and authority, to thoſe Countries) and ſee <hi>whether you have done altogether according to the crie of it which is come up unto them;</hi>
+               <note place="margin">Gen. 19.21.</note> If they were pleaſed to grant Commiſſions to examin who and what perſons you have caſt out of gods vine<g ref="char:EOLhyphen"/>yard, and upon what ſcore; your actions would appear as odious to all the world, as now they doe to them that know you. It ſeemes you had not room, and ſcope enough to rule, except like the great <hi>Ottoman,</hi> you killed all your <hi>Brothers,</hi> that you might rule and reign alone.</p>
+            <p n="6">6 But <hi>for to ſatisfie all honeſt men, and to ſhame your Adverſaries,</hi> you promiſe an <hi>exact account from</hi> South-Wales. If you deſire to <hi>ſatisfie the one,</hi> or to <hi>ſhame the other,</hi> let mee adviſe you as a friend not to ſmoother your Accounts, but let men ſee them, and ſee how you have diſpoſed of neer 20000<abbr>l.</abbr> 
+               <hi>per annum</hi> for two years and a half. For if your Accounts muſt be received onely in groſſe, <hi>without the particulars,</hi> received by an <hi>implicit faith</hi> with<g ref="char:EOLhyphen"/>out farther examination, (as wee hear they muſt) you and your friends may paſſe for <hi>Godly</hi> men ſtill.</p>
+            <p>Howſoever, the Petitioners doe humbly con<g ref="char:EOLhyphen"/>ceive that they have performed the office of honeſt and faithfull men to the <hi>State,</hi> in preſenting to their notice and cognizance, what a vaſt Revenue they have been <hi>defrauded</hi> of, &amp; are like to be ſtil <hi>defeated,</hi> and they ſeem to all indifferent, and dis-intereſſed
+<pb n="14" facs="tcp:55966:8"/>
+perſons, to deſerve <hi>thanks</hi> from the State, and <hi>coun<g ref="char:EOLhyphen"/>tenance</hi> and <hi>encouragement,</hi> againſt all affronts: For if they miſcarrie in this petition, and their hopes be blaſted therein, they reſolve to make no ſuch attempts any more; but will ſtudy to ſerve the Par<g ref="char:EOLhyphen"/>liament, in ſome more <hi>acceptable</hi> way.</p>
+            <p n="7">7 But in the next <hi>Paragraph</hi> you tell us of the Mi<g ref="char:EOLhyphen"/>niſters, and <hi>School-maſters</hi> of <hi>North Wales,</hi> with their number and qualitie, as though you had been at a late <hi>muſter</hi> of them; indeed the Scean of your diſ<g ref="char:EOLhyphen"/>courſe lyes moſt in that countrey; this is lapwing-like to crie farr from the neſt: you give an account of <hi>North-Wales,</hi> to confute a Petition from <hi>South-Wales.</hi> Here you are out of the reach of my pen, becauſe the places are out of the road of my ac<g ref="char:EOLhyphen"/>quaintance. But for your <hi>School maſters</hi> in <hi>North-Wales</hi> if they be like thoſe you have placed in <hi>South-Wales,</hi> they are fitter to <hi>goe to School,</hi> then to <hi>keep any,</hi> as the countryes are moſt deeply ſenſible thereof.</p>
+            <p n="8">8 But here is ſome good newes from <hi>Flintſhire, Here are but two Miniſters ejected in all;</hi> truely they had better luck then their fellowes, we can tell you of ſome other Counties (in lieu of this) where you have not left above two to ſtand in all; and of others, where you have not allowed of above, 3 or 4 Iti<g ref="char:EOLhyphen"/>nerants to inſtruct neer three ſcore and ten pariſhes, ſome whereof are very large and populous and were ſupplied (lately) with very able godly Mi<g ref="char:EOLhyphen"/>niſters, that had been trained up in the <hi>Schooles of the Prophets,</hi> and were skilfull in dividing the word of god aright, and were inſtruments of conveying
+<pb n="15" facs="tcp:55966:8"/>
+goodneſſe and grace to many a poor ſoul in their reſpective charges: for by my vicinitie to thoſe coun<g ref="char:EOLhyphen"/>tryes and my often ſallies upon occaſion to thoſe parts, I have reaſon to know them well.</p>
+            <p>But the Itinerants that are come in their roome, are ſuch men, that though they preſume <hi>to be Teach<g ref="char:EOLhyphen"/>ers, yet have need to be taught themſelves, which are the firſt principles of the oracles of God:</hi> and if men had a deſigne to bring preaching into contempt and deriſion, they could not have thought of a more effectuall courſe, then by <hi>ſetting</hi> up ſuch men to preach: for they have ſet up ſuch <hi>mock-teachers</hi> that will be glad of 10<abbr>l.</abbr> 
+               <hi>per annum,</hi> though their Maſters may ſet upon their ſcore large reckonings to be accounted to the State, as they will doe for their School-maſters likewiſe.</p>
+            <p>But how well contented men are with your <hi>Pro<g ref="char:EOLhyphen"/>pagation</hi> in <hi>North-Wales</hi> may appear by this enſu<g ref="char:EOLhyphen"/>ing <hi>preſentment</hi> made by the <hi>Grand-Jury</hi> of <hi>Mont<g ref="char:EOLhyphen"/>gomery-ſhire</hi> at the laſt great Seſſions held for that County.</p>
+            <floatingText xml:lang="eng" type="statement">
+               <body>
+                  <head>The preſentment of <hi>Montgomery-ſhire</hi> was as following. <hi>April,</hi> 1. 1652.</head>
+                  <p>WEE the <hi>Grand Jury</hi> of the County of <hi>Mont<g ref="char:EOLhyphen"/>gomery</hi> being upon our oathes, doe diſco<g ref="char:EOLhyphen"/>ver and repreſent to your Lordſhips, the complaints and aggrevances thereof. In the firſt place out of our duty to Almighty God, and in obedience to the preſent Government, we make bold to ſignifie to your Lordſhips, that the <hi>moſt Generall</hi> and all<g ref="char:EOLhyphen"/>moſt
+<pb n="16" facs="tcp:55966:9"/>
+                     <hi>univerſall</hi> complaint amongſt us is the want of able Miniſters to ſupply our pariſh Churches being 47, which are left vacant upon the Lords day, with<g ref="char:EOLhyphen"/>out any known preacher to officiat in them; But in lieu of the ſaid 47 (and moſt of the reſt lately que<g ref="char:EOLhyphen"/>ſtioned) there are a few illiterate poor Tradeſmen, ſet up and countenanced, (without any juſt pretence, or fitting qualifications) to inſtruct the Congrega<g ref="char:EOLhyphen"/>tions, ſo that by meanes hereof the goſpell (as we conceive) is ſo farr from being Viſibly <hi>propagated</hi> among us, according to the meaning of the late <hi>Act,</hi> that it is much feared, (if a remedy be not timely applied) it is rather in a way of <hi>declining;</hi> which wee crave your Lordſhips aſſiſtance, ſeaſonably to prevent.</p>
+                  <list>
+                     <head>Two foremen of the <hi>Grand-Jury</hi>
+                     </head>
+                     <item>
+                        <hi>Ga. Win,</hi>
+                     </item>
+                     <item>
+                        <hi>Will. Kyffin, &amp;c.</hi>
+                     </item>
+                  </list>
+               </body>
+            </floatingText>
+            <p>We could produce the like (if need were) from <hi>Denbighſhire,</hi> put up at the Great Seſſions held for that County at the ſame time.</p>
+            <p>You conclude with Tithes (that <hi>delicate morſell</hi> which is fit for the mouths of your creatures onely) which you tell us were and ſtill are tendred to the Pariſhioners; But they have a kind of an odd <hi>ſquea<g ref="char:EOLhyphen"/>miſh</hi> conſcience, that few of them will meddle with them as you complain: You made an <hi>Order</hi> of late (as I am told) ſince this Petition was ſet on foot, to make offer of the Tithes to the Pariſhioners to avoyd envie and exclamations; Before that, none but your <hi>Favorits</hi> muſt <hi>eat of the holy things</hi> and <hi>live of the altar.</hi> The poor <hi>ejected Parſons</hi> muſt have no ſhare nor portion in them, though they of<g ref="char:EOLhyphen"/>fered more rent than any others payed for them, and
+<pb n="17" facs="tcp:55966:9"/>
+offered good ſecurity for the payment. But wee need not marvell that they could not have their Tithes, when they could not have their <hi>Glebes</hi> upon rent, nay their very fifts denied them, though allowed by the <hi>Act</hi> for Propagation, which being accoun<g ref="char:EOLhyphen"/>ted according to the undervaluations made by the Sequeſtrators and their Agents, will appear to be ſo ſmall an allowance, to maintain a family, that it will not find them bread and water; and yet this pittifull pittance cannot be received or obtained, without many a tedious weariſome journey, and much expence, and hazard of mens lives: As ſome have periſhed in the waters, by going to Petition and ſeek relief for their periſhing families; And others being wearied out with fruitleſſe journeys, and dilatory anſwers, have given over all Adreſſes to theſe Un-mercifull Sequeſtrators and other Offi<g ref="char:EOLhyphen"/>cers, to powre out their Complaints before the All-ſeeing God; who graciouſly heard the groanes of his people in <hi>Egypt, Exod.</hi> 2.13. and the voice of the poor ladd, weeping under the tree, <hi>Gen.</hi> 21.17.</p>
+            <p>To gain beleef to what you have affirmed in your Epiſtle, you cloſe it up, and ſeal it with a deep <hi>Aſſeveration</hi> and engagement. Truely <hi>Proteſts</hi> and <hi>Aſſeverations</hi> weigh but litle with me, ſince you have applied them to <hi>untruths</hi> hereto<g ref="char:EOLhyphen"/>fore, and that in the pulpit; you may remember where and when you <hi>proteſted</hi> to the congregation, that you never received any recompence for your pains in preaching. But there was one preſent, that helped your memory to remember what a round ſumm you received at <hi>Brecon,</hi> for one <hi>worm wood-Lecture</hi>
+               <pb n="18" facs="tcp:55966:10"/>
+w<hi rend="sup">ch</hi> you made againſt al the Miniſters of that county. There are ſome alſo that can remember you, how much of the <hi>Fee-farm Rents</hi> of the late king you have purchaſed in <hi>Radnor-ſhire</hi> and elſewhere, and they are ſure that it was not your fathers inheritance, but ſome other wayes (of <hi>gainefull goodlineſs</hi>) that have ena<g ref="char:EOLhyphen"/>bled you to make theſe purchaſes. Therefore Sir, be more cautious hereafter, how you make the like proteſtations, but let them be according to the rule, in <hi>juſtice, judgement</hi> and <hi>truth, Jer.</hi> 4.2.</p>
+            <p>God give you grace to ſee, and a heart to feel and grieve for the ruin that you have brought upon the Church of God in thoſe parts, and the con<g ref="char:EOLhyphen"/>tempt that you have brought upon his <hi>Miniſters</hi> and <hi>Ordinances:</hi> For though we ſtand in an indiffe<g ref="char:EOLhyphen"/>rent good poſture as yet, in this <hi>County,</hi> yet the fire being in our neighbours houſe we may juſtly fear our own, and ſuſpect the like <hi>Propagation of the Goſpell</hi> here, as we have ſeen there; For though you have begun with the out-skirts and Suburbs (as it were) of this Nation, yet we find now that the Deſign is generall, as appeares by a Letter from <hi>Herefordſhire</hi> inſerted, ſome weeks ſince, in the weekly Diurnall, and ſubſcribed <hi>M. H.</hi> the Pen-man whereof was not a <hi>Mile</hi> from a <hi>Hill;</hi> And alſo by the <hi>Propoſalls</hi> ſent in by ſome of your Party to the <hi>Committee for the pro<g ref="char:EOLhyphen"/>pagation of the Goſpell,</hi> and printed in one of the late Diurnalls; whereby any man that hath but half an eye may ſee, that this <hi>Myſtery</hi> that goes under the ſpecious name and title of the <hi>Propagation of the Goſpell,</hi> begins to worke ſtrongly in other parts of this Nation, and to creep from the Cir<g ref="char:EOLhyphen"/>cumference
+<pb n="19" facs="tcp:55966:10"/>
+to the Center of the Common-wealth; but let men look well about them, and learn to be wiſe at other mens coſt: Let the preſent deplorable condition of <hi>Wales,</hi> move men both to <hi>reſent</hi> their neighbours miſeries, and to <hi>prevent</hi> their own.</p>
+            <closer>
+               <dateline>
+                  <hi>Dated from my houſe neer</hi> Hereford, <date>
+                     <hi>the</hi> 26 <hi>of</hi> May: <hi>in the Third year of the Abrogation of the Goſpell in</hi> Wales.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>For Mr. <hi>Valvaſor Powel</hi> one of the Itineraries of <hi>Wales.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>YOU were ſoon induced upon other mens Rela<g ref="char:EOLhyphen"/>tions, to miſinform your ſelf, of ſome Chal<g ref="char:EOLhyphen"/>lenge tendred by me againſt you and your preachers; But as your informers were <hi>Cretians</hi> in their ſuggeſtion, ſo it is dangerous <hi>Cretizare cum Cretenſibus;</hi> you ſhould rather have bin Cautelous in your Credulity, Obſerving <hi>Pauls</hi> Command,<note place="margin">Tit. 1.13.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, to <hi>Rebuke them ſharplie,</hi> for they de<g ref="char:EOLhyphen"/>ſerved it, accuſing me unjuſtlie, of what I was not then Guiltie. If you would deign to be remembred in the Character of Chriſtianity, and the true Cogni<g ref="char:EOLhyphen"/>zance of Chriſts ſouldier, The Apoſtle tells you,<note place="margin">2. Tim. 2.24.</note> 
+               <hi>The ſervant of the Lord muſt not ſtrive,</hi> but <hi>be Gentle to all men, apt to Teach, patient.</hi> Being a ſervant he ſhould imitate his Maſter, and the <hi>Maſter is not the Author of Confuſion, but of Peace. Qui litigat verbis, pugnat,</hi> a barking tongue is a ſtriking hand. How Cruellie the Miniſters of Wales are and have
+<pb n="20" facs="tcp:55966:11"/>
+bin uſed, their good names murthered, their very <hi>Calling</hi> accounted a <hi>Crime,</hi> and Miſsion their Ruine, expoſed like thoſe diſguiſed Primitive Chriſtians in Beares and Lions skins, for the baiting and tearing of Dogs; I am ſure your unſavory <hi>Invectives</hi> againſt us (being rather <hi>Satyres</hi> than <hi>Sermons</hi>) are ſuffici<g ref="char:EOLhyphen"/>ent Teſtimonies thereof. And now I find that <hi>Aſpis à viperâ ſumit venenum,</hi> The <hi>minor</hi> Preachers (if they may be called preachers) borrow their <hi>language</hi> &amp; <hi>virulency</hi> from you, As the <hi>minor greek</hi> Poets are ſaid to lick up the vomit of blind <hi>Homer.</hi> In reſpect of my ſelf, I ſhall paſſe by ſuch Reproaches, remembring therein the Reſult of the <hi>School-men,</hi> That Abuſes are to be Remitted, that are injurious towards mens Perſons not only <hi>quoad Rancorem,</hi> in reſpect of the <hi>Malice,</hi> but alſo <hi>quod Satisfactionem,</hi> in reſpect of the <hi>Re<g ref="char:EOLhyphen"/>dreſſe.</hi> But Abuſes which Concern our Offices, touch both the Author entruſting, and the truſt Commit<g ref="char:EOLhyphen"/>ted to our Charge: And wee have our Saviours directi<g ref="char:EOLhyphen"/>on, in the eighth of <hi>John,</hi> to maintain, (as there he did) the Truth of our <hi>Profeſſion.</hi> Neglecting then, That you fell upon my Perſon in my abſence, both at <hi>Glaſebury</hi> and the <hi>Hay,</hi> which was neither Candide<g ref="char:EOLhyphen"/>lie nor Chriſtianlie performed; I ſhall (as I promiſed you, (upon your <hi>own Challenge</hi> and wonted manner of <hi>Vanity</hi> and <hi>bragging</hi>) together with one or two of my brethren, be Readie (with Gods aſsiſtance) to meet you and the like number of yours any time, after the end of <hi>Trinity term</hi> next, either in the Univerſity of <hi>Oxford,</hi> or in any place within ten Miles of my aboad: Sooner I cannot, becauſe of many journeyes, and Occaſi<g ref="char:EOLhyphen"/>ons which I am neceſſitated to perform. And will then
+<pb n="21" facs="tcp:55966:11"/>
+endeavour to Maintain theſe enſuing Poſitions.</p>
+            <list>
+               <item>
+                  <hi>1.</hi> The <hi>Neceſſity of Baptiſm,</hi> Neceſſitate prae<g ref="char:EOLhyphen"/>cepti, <hi>and the lawfulneſſe of Paedobaptiſm.</hi>
+               </item>
+               <item>
+                  <hi>2. That the Miniſtrie of England is according to Divine inſtitution.</hi>
+               </item>
+               <item>
+                  <hi>3. That our Doctrine is Orthodoxe; being will<g ref="char:EOLhyphen"/>ing to Hear, what Errours we have broach<g ref="char:EOLhyphen"/>ed, Or what Truths have bin Revealed by you, or unto you, which we have not former<g ref="char:EOLhyphen"/>ly taught and known.</hi>
+               </item>
+               <item>
+                  <hi>4. That your Separation was Cauſleſs, and un<g ref="char:EOLhyphen"/>warrantable.</hi>
+               </item>
+            </list>
+            <p>Which as farr as I can remember were the ſumm of thoſe Queſtions propoſed, that I would maintain. And though your defiance was (as I partlie heard, and more fullie underſtood by others) very high againſt all the Miniſters of this Nation, the <hi>Fathers of Jſrael,</hi> judging them as <hi>Zuinglius</hi> did <hi>Carolſtadius, (Non ſatis humerorum habere)</hi> too weak to undertake the defence of Truth; yet I doubt not but having gather<g ref="char:EOLhyphen"/>ed our ſtones from the brook of Gods word, we ſhall be Able with the ſling of his Spirit to encounter the fiercenes of your <hi>haughtineſs,</hi> And reſiſt all your ſhafts, draw them foorth from what Quiver you pleaſe, though you accounted your ſelf a Triform'd <hi>Geryon</hi> in the Languages. Commend not in your ſelf, what you uſe to <hi>condemn</hi> in others, to wit learning.</p>
+            <q>— Proprio Laus ſordet in Ore.</q>
+            <p>Thus having for a long time patientlie born your ſeverall reproaches, and revilings, ſtill expecting the
+<pb n="22" facs="tcp:55966:12"/>
+Lords good will and pleaſure; Wee are at laſt per<g ref="char:EOLhyphen"/>ſwaded in our ſouls by his bleſſed ſpirit, That <hi>his name</hi> muſt be glorified by us in earneſtlie <hi>Contending with you for the Faith once delivered to the ſaints:</hi> And ſo reſolved with Gods help and bleſſing, to vin<g ref="char:EOLhyphen"/>dicate our innocency and Calling, with the ſpirit of Meekneſſe, and of Mildneſſe, as it becometh true Chri<g ref="char:EOLhyphen"/>ſtians, and the temper of Chriſts Goſpell, for wee can<g ref="char:EOLhyphen"/>not put up your affronts, and ſlaunders any longer. <hi>Nihil veritas crubeſcit, niſi ſolummodò abſcondi,</hi> Truth never bluſheth, but when it is ſilenced; Wee have in <hi>Modeſtie</hi> ſpared you too long, Couching like <hi>Iſſachars</hi> Aſſe under our burthens; Now expect us like the <hi>Iawrell,</hi> bearing up the more, the more weight you lay upon us. And aſſure your ſelf, wee ſhall (God willing) diſplay you in livelyer Colours, than ever you have miſhaped others. Therefore trample no longer on thoſe whom you have ruined, as <hi>Diogenes</hi> did upon <hi>Plato's</hi> Cloathes, with greater Pride, than ever <hi>Plato</hi> wore them.</p>
+            <p>Trulie the Zeal of Gods Cauſe, the Cauſe of Chriſts Goſpell, doth even Raviſh and inflame mee.</p>
+            <q>
+               <l>— Nam quis iniquae,</l>
+               <l>Tam patiens turbae, tam ferreus ut teneat ſe?</l>
+            </q>
+            <p>Who can be ſilent, to ſee a whole Nation (a Nation Converted to Chriſtianity, aſſoon almoſt as our <hi>Sa<g ref="char:EOLhyphen"/>viour</hi> ſuffered) ſo notoriouſlie branded by their own <hi>Natives?</hi> for <hi>Ignorance, Heatheniſm,</hi> and <hi>Pro<g ref="char:EOLhyphen"/>faneſs,</hi> as you have done for your own ambition &amp; ſelf-ends, which the World hath now ſufficientlie diſco<g ref="char:EOLhyphen"/>vered: As though <hi>Wales</hi> were ſtill a <hi>land of Dark<g ref="char:EOLhyphen"/>neſs,</hi> the poor inhabitants as yet Continuing in the <hi>Region</hi> and <hi>ſhadow of Death.</hi>
+            </p>
+            <q>
+               <pb n="23" facs="tcp:55966:12"/>— Pudet patriae te, patriamque tui</q>
+            <p>You have had a prime hand in this Aſperſion, being not onely injurious to the Nation, to the <hi>Apoſtolicall</hi> Martyrs, and firſt <hi>Planters</hi> of Religion here among us, but to divers moſt painfull and Reverend Miniſters therein, of later times; And now do Arrogate to your ſelf the <hi>Propagation</hi> of the Goſpel therein, with the utter Ruine and <hi>Abrogation</hi> thereof: witneſſe what Superſtition and <hi>Popery</hi> is all ready Crept in a<g ref="char:EOLhyphen"/>mong us, ſince our Ejectment, as is ſenſiblie diſco<g ref="char:EOLhyphen"/>vered by three pariſhes in <hi>Brecknock</hi>-ſhire; Such are the effects of this your <hi>Apoſtolicall</hi> Propagation. And How can it be otherwiſe? My heart bleeds to ſee ſo many hundred ſouls within this Pariſh (I paſſe by greater pariſhes) whereof I was late <hi>Vicar</hi> fainting and ſcattred abroad like ſheep without a ſhepheard;<note place="margin">Math. 9.36.</note> hav<g ref="char:EOLhyphen"/>ing neither the comfort of Preaching, nor Praying, nor Sacraments, nor viſiting of the ſick, nor of any Decen<g ref="char:EOLhyphen"/>cy of Buriall; your Preachers being ſo divided in their Opinions, that the good people are at a ſtand, being whollie dejected, and as much as in you lieth, <hi>Anathe<g ref="char:EOLhyphen"/>matized</hi> from the <hi>Communion</hi> of Saints, and all Church-fellowſhips, as men unchurched, and unchri<g ref="char:EOLhyphen"/>ſtend, and (in your Repute) meer <hi>Pagans</hi> and <hi>Hea<g ref="char:EOLhyphen"/>thens;</hi> For you Account all <hi>fixed</hi> parochiall Con<g ref="char:EOLhyphen"/>gregations to be ſuch, <hi>uncalled,</hi> and without the <hi>Pale</hi> of Chriſts Church: but I muſt tell you they have learnt Chriſt far better, being Conſtantlie taught to my knowledge theſe twelve years twice every Lords day: for many of us have laboured more aboundantly than you all, <hi>yet not wee.</hi>
+               <note place="margin">1 Cor. 15.16.</note> And now you ſuperſtruct <hi>Hay</hi> and <hi>ſtubble</hi> upon <hi>our labours:</hi> wee praiſe not our
+<pb n="24" facs="tcp:55966:13"/>
+ſelves, but theſe pretious ſouls <hi>are our Epiſtles writ<g ref="char:EOLhyphen"/>ten in our hearts,</hi> for whoſe ſpirituall Condition (at this preſent) wee moſt heartily greive and lament.</p>
+            <p>What doth not your Conſcience accuſe you? Is it ſeared up with a hot iron? do not you hear the groans of many thouſand Souls teſtifying againſt you?</p>
+            <p>Doth not the truth of that moſt <hi>Chriſtian, Chari<g ref="char:EOLhyphen"/>table,</hi> and <hi>Pious</hi> Petition of <hi>South-Wales,</hi> ſtartle you in your ſleep, and affrighten you in the Pulpit? which in all your meetings you ſo much rayl againſt, becauſe it diſcovers your <hi>Hipocriſie, Covetouſnes,</hi> and <hi>Self-ends</hi> to the World.</p>
+            <p>With what impudencie dare you Revile the ſame, being ſo Graciouſly received by the Honorable Houſe of <hi>Parliament?</hi> And there, upon ſolemn Debate, <hi>Ordered</hi> and <hi>Committed</hi> to further examination?</p>
+            <p>Is this your <hi>Obedience?</hi> to diſcountenance their Actions, and to deter ſo many thouſands from Petiti<g ref="char:EOLhyphen"/>oning thoſe <hi>Wiſe</hi> and <hi>Grave Patriots</hi> of this Nation who are aſſembled for the hearing and redreſſing of the ſeverall Abuſes and Greivances of this <hi>Com<g ref="char:EOLhyphen"/>mon wealth?</hi>
+            </p>
+            <p>Nay with what <hi>Divinity</hi> or <hi>Morall</hi> honeſty durſt you, with your Fanatick Raptures in your Sermon be<g ref="char:EOLhyphen"/>fore the Judges the laſt <hi>Aſſiſes</hi> for this County of <hi>Radnor,</hi> revile and Curſe that moſt valiant and worthy Commander <hi>Collonel Freeman</hi> in his perſon and in his place, for preferring the ſaid <hi>Petition?</hi> Doth this become the Miniſter of Chriſt, the Propagator of the Goſpell in <hi>Wales?</hi> You forget our Saviours Rule, <hi>Bleſſe them that perſecute you, bleſſe I ſay and curſe not.</hi> Surely this your ſtorming, and Indignation, and
+<pb n="25" facs="tcp:55966:13"/>
+great Induſtry, in travayling from County to County, and from Pariſh to Pariſh, to threaten the Petitioners and Subſcribers (in your Sermons) with Sequeſtrati<g ref="char:EOLhyphen"/>on and Ruine, and <hi>Stigmatizing</hi> them as <hi>prophane</hi> perſons, <hi>Malignants,</hi> a <hi>Cavalliering party,</hi> and meer <hi>Incendiaries</hi> of the State, Is like <hi>Sanballat's</hi> the <hi>Horonite's</hi> dealings with good <hi>Nehemiah</hi> to terrifie him from Re-edifying <hi>Jeruſalem,</hi> and of the Inha<g ref="char:EOLhyphen"/>bitants of <hi>Samaria</hi> in diſcouraging <hi>Zorobabel</hi> from Re-edifying the <hi>Temple:</hi> Read <hi>Ezra</hi> 4.11. and <hi>Nehemiah</hi> the ſixt, where you have your <hi>Parallells.</hi> This plainly argueth that you are not <hi>Parliament proof,</hi> and that your Actions will not abide the <hi>Teſt,</hi> and Examination of <hi>Publike</hi> light. For if the <hi>Peti<g ref="char:EOLhyphen"/>tion</hi> be falſe, the blame and ſhame will recoyl upon the <hi>Contrivers</hi> and <hi>Preſenters</hi> of the ſame: But if it be true, they have done the <hi>Parliament</hi> good ſervice in giving them intelligence of your practices and pro<g ref="char:EOLhyphen"/>ceedings in theſe <hi>Remoter</hi> parts of the <hi>Common-wealth,</hi> far from their ſight and cognizance, and in giving them warning how far to truſt ſuch men as you again; who under colour of <hi>Religion</hi> and <hi>San<g ref="char:EOLhyphen"/>ctity</hi> do drive on <hi>Politick</hi> and <hi>Worldly</hi> Intereſts: For ſuch <hi>Light Heads</hi> as you are (unles timely di<g ref="char:EOLhyphen"/>ſcovered and prevented) will become not only the Brand of the Church, but alſo the Bane of this <hi>Com<g ref="char:EOLhyphen"/>mon-wealth.</hi> But I leave you to your circuits, wiſh<g ref="char:EOLhyphen"/>ing you to ſearch your heart, which is not right in the ſight of God, for you are in the very <hi>Gall of bitterneſs,</hi> of which Repent, and <hi>Pray God if per<g ref="char:EOLhyphen"/>haps the Thoughts of your Heart, and Words of your Mouth m y be forgiven you;</hi> And I beſeech
+<pb n="26" facs="tcp:55966:14"/>
+God that he would be pleaſed in his mercy to unite all Differences, and compoſe all Diviſions within this Nation, That we may all with one Heart, and one Mind, endeavour to <hi>preſerve the unity of the Spirit in the bond of Peace.</hi> Expecting your Anſwer for the place of meeting, I muſt in Charity commend you to Gods Grace, who (in mine own opinion) being the unworthyeſt <hi>Ejected</hi> Miniſter of Chriſt Jeſus, in <hi>South-Wales,</hi>
+            </p>
+            <closer>
+               <signed>Am in all humility moſt ready not only to be bound, but to die for the name of Chriſt, the lawfullneſs, and Neceſſi<g ref="char:EOLhyphen"/>ty of Baptiſm, the Right of our call<g ref="char:EOLhyphen"/>ing, and the Truth of our Doctrine. ALEX: GRIFFITH.</signed>
+               <dateline>Glasbury <date>
+                     <hi>9th.</hi> May <hi>1652.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:55966:14"/>
+            <head>The Petition (before mentio<g ref="char:EOLhyphen"/>ned) was preſented to the Honorable Houſe of Parliament the 16th. day of <hi>March</hi> 1651. by the hands of Collonel <hi>Ed. Freeman,</hi> the States Atorney-Gene<g ref="char:EOLhyphen"/>rall for <hi>South-Wales,</hi> being accompanied by ſome ſelect Gentlemen out of the ſe<g ref="char:EOLhyphen"/>verall Counties.</head>
+            <head type="sub">The Houſe being informed that divers Peti<g ref="char:EOLhyphen"/>tioners of <hi>South-Wales</hi> were at the dore, they were called in, and <hi>Coll. Freeman</hi> being come to the Barr, delivered a ſhort Speech to this effect.</head>
+            <opener>
+               <salute>Mr. Speaker,</salute>
+            </opener>
+            <p>IT was the deſire of many of the well-af<g ref="char:EOLhyphen"/>fected <hi>Gentry,</hi> and other <hi>Inhabitants</hi> of <hi>South-Wales,</hi> that I ſhould preſent to your grave Conſideration, this <hi>Petition,</hi> and withall humbly to beg, you will be pleaſed
+<pb n="28" facs="tcp:55966:15"/>
+to believe they deſire not to bring in any <hi>Scandalous ejected Miniſters,</hi> (as ſome out of prejudice to the Petition do ſuggeſt) But ſuch as this honorable Houſe ſhall approve of, and only ſuch, ſhall be moſt gratefully entertained by them.</p>
+            <p>
+               <hi>A Soul-ſaving neceſſity</hi> hath conſtrained them to this humble Addreſs, who for a<g ref="char:EOLhyphen"/>bove two yeares laſt paſt have lived in dark<g ref="char:EOLhyphen"/>nes, the <hi>Light</hi> of the <hi>Goſpell</hi> being almoſt exſtinguiſhed, ſhining only in ſome few corners of the Country, and ingroſſed into <hi>particular diſtinct Congregations,</hi> which are not above four or five in moſt Counties in <hi>South-Wales,</hi> and how four or five <hi>Itineraries</hi> can ſupply a whole County, moſt of the Counties conſiſting of eighty or a hundred Pariſhes, is humbly left to your Honours grave <hi>conſideration.</hi> The <hi>Inhabitants</hi> of <hi>South-Wales</hi> are not only deſtitute of a convenient number of <hi>Miniſters,</hi> but alſo of able <hi>School-maſters,</hi> to the decay of <hi>Religion</hi> and <hi>Learning.</hi> And nevertheles, the vaſt Revenue of the outed Clergy, and all ſequeſtered <hi>Tithes, Im<g ref="char:EOLhyphen"/>propriations, Glebes,</hi> and other <hi>Eccleſiaſticall
+<pb n="29" facs="tcp:55966:15"/>
+Livings</hi> (amounting to a great value is) receiv<g ref="char:EOLhyphen"/>ed by particular perſons deriving Authori<g ref="char:EOLhyphen"/>ty from the Act of the two and twentieth of <hi>February</hi> 1649. which was really inten<g ref="char:EOLhyphen"/>ded by this Honorable Houſe for the true <hi>Propagation of the Goſpell,</hi> who doe Lett and Sett out the ſame, to <hi>Friends, Creatures</hi> and <hi>Alliance</hi> of their own, at <hi>extraordinary under<g ref="char:EOLhyphen"/>values</hi> to the prejudice of the <hi>State,</hi> and the gain of private perſons.</p>
+            <p>
+               <hi>Mr. Speaker,</hi>
+            </p>
+            <p>This innocent Petition hath no deſigne in it againſt the <hi>Common-wealth,</hi> or any par<g ref="char:EOLhyphen"/>ticular perſons; All that the Petitioners crave from this <hi>Honorable Houſe,</hi> is a conve<g ref="char:EOLhyphen"/>nient number of <hi>able Godly Teachers and Schoolmaſters,</hi> ſuch as you ſhall approve of: And an <hi>Account</hi> for the Profits and Revenues of the Churches received for theſe two laſt yeares.</p>
+            <p>As we aim herein at the <hi>Glory of God and the Publike good,</hi> ſo <hi>let God bleſs us and give a Gracious iſſue to our humble Deſires.</hi>
+            </p>
+         </div>
+         <div type="proceedings">
+            <pb n="30" facs="tcp:55966:16"/>
+            <p>The Petitioners being withdrawn, the Petition was read, and Intituled <hi>The hum<g ref="char:EOLhyphen"/>ble Petition of ſeverall of the Inhabitants of the</hi> ſix <hi>Counties of</hi> South-Wales <hi>and Coun<g ref="char:EOLhyphen"/>ty of</hi> Munmouth, <hi>well-affected to the</hi> Parli<g ref="char:EOLhyphen"/>ament <hi>and</hi> preſent Government, <hi>on the be<g ref="char:EOLhyphen"/>half of themſelves and the reſt of the Inha<g ref="char:EOLhyphen"/>bitants there, Subſcribed by many thouſands.</hi>
+            </p>
+         </div>
+         <div type="resolutions">
+            <pb n="31" facs="tcp:55966:16"/>
+            <head>Whereupon the houſe ordered it ſhould be referred to a <hi>Com<g ref="char:EOLhyphen"/>mittee.</hi>
+            </head>
+            <p>
+               <hi>Reſolved</hi> by <hi>the Parliament,</hi> That it be referred to the <hi>Com<g ref="char:EOLhyphen"/>mittee</hi> of <hi>plunderd Miniſters,</hi> to examine this buſineſs, and to State the matter of <hi>fact,</hi> and <hi>report</hi> their <hi>opinions</hi> therein to the <hi>Houſe,</hi> with power to the ſame <hi>Committee</hi> to ſend for perſons, pa<g ref="char:EOLhyphen"/>pers, and witneſs.</p>
+            <p>
+               <hi>Reſolved</hi> by the <hi>Parliament,</hi> That the ſame <hi>Committee</hi> have power to examin upon oath, and to authorize ſuch <hi>Commiſſioners</hi>
+               <pb n="32" facs="tcp:55966:17" rendition="simple:additions"/>
+in the Countrey, as they ſhall think fit, to <hi>Examin witneſses</hi> up<g ref="char:EOLhyphen"/>on <hi>oath</hi> touching any the matters contained in the <hi>Petition,</hi> and to return theſe <hi>examinations</hi> to the ſaid <hi>Committee.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
